@@ -9,7 +9,7 @@
 		<version>1.0.0.BUILD-SNAPSHOT</version>
 	</parent>
 	<modules>
-		<module>spring-cloud-dataflow-admin-marathon</module>
+		<module>spring-cloud-dataflow-admin-mesos</module>
 		<module>spring-cloud-marathon-connector</module>
 	</modules>
 </project>
